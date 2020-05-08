@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=YODA Core
+Comment=YODA P2P Cryptocurrency
+Comment[fr]=YODA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=YODA, eşten eşe kriptografik sanal para birimi
+Exec=pivx-qt %u
+Terminal=false
+Type=Application
+Icon=yoda128
+MimeType=x-scheme-handler/yoda;
+Categories=Office;Finance;
+StartupWMClass=Yoda-qt
